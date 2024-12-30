@@ -48,9 +48,9 @@
             this.panel1.Controls.Add(this.back_btn);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel1.Location = new System.Drawing.Point(0, 622);
+            this.panel1.Location = new System.Drawing.Point(0, 584);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1460, 165);
+            this.panel1.Size = new System.Drawing.Size(1370, 165);
             this.panel1.TabIndex = 1;
             // 
             // back_btn
@@ -85,6 +85,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 2;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox3
             // 
@@ -114,13 +115,13 @@
             this.AutoSize = true;
             this.BackgroundImage = global::Fuzzy__n_Friends.Properties.Resources.selection_pane;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1460, 787);
+            this.ClientSize = new System.Drawing.Size(1370, 749);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.panel1);
             this.DoubleBuffered = true;
-            this.MinimumSize = new System.Drawing.Size(1478, 834);
+            this.MinimumSize = new System.Drawing.Size(1364, 726);
             this.Name = "selection_pane";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "selection_pane";

@@ -35,5 +35,11 @@ namespace Fuzzy__n_Friends
 
             back_btn.Image = Properties.Resources.back;
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            complete_the_word game_1 = new complete_the_word();
+            game_1.ShowDialog();
+        }
     }
 }

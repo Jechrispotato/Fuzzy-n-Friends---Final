@@ -16,5 +16,18 @@ namespace Fuzzy__n_Friends
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            menu menu = new menu();
+            this.Close();
+            menu.ShowDialog();
+
+        }
     }
 }
