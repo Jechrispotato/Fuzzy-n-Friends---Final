@@ -273,6 +273,16 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap candy12 {
+            get {
+                object obj = ResourceManager.GetObject("candy12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap candy2 {
             get {
                 object obj = ResourceManager.GetObject("candy2", resourceCulture);
@@ -293,6 +303,16 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap candy22 {
+            get {
+                object obj = ResourceManager.GetObject("candy22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap candy3 {
             get {
                 object obj = ResourceManager.GetObject("candy3", resourceCulture);
@@ -303,9 +323,9 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap candy31 {
+        internal static System.Drawing.Bitmap candy32 {
             get {
-                object obj = ResourceManager.GetObject("candy31", resourceCulture);
+                object obj = ResourceManager.GetObject("candy32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -333,6 +353,16 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap candy42 {
+            get {
+                object obj = ResourceManager.GetObject("candy42", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap candy5 {
             get {
                 object obj = ResourceManager.GetObject("candy5", resourceCulture);
@@ -353,9 +383,9 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap candy6 {
+        internal static System.Drawing.Bitmap candy52 {
             get {
-                object obj = ResourceManager.GetObject("candy6", resourceCulture);
+                object obj = ResourceManager.GetObject("candy52", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -366,6 +396,16 @@ namespace Fuzzy__n_Friends.Properties {
         internal static System.Drawing.Bitmap candy61 {
             get {
                 object obj = ResourceManager.GetObject("candy61", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap candy62 {
+            get {
+                object obj = ResourceManager.GetObject("candy62", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -393,6 +433,16 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap candy72 {
+            get {
+                object obj = ResourceManager.GetObject("candy72", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap candy8 {
             get {
                 object obj = ResourceManager.GetObject("candy8", resourceCulture);
@@ -413,19 +463,9 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap candy9 {
+        internal static System.Drawing.Bitmap candy82 {
             get {
-                object obj = ResourceManager.GetObject("candy9", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap candy91 {
-            get {
-                object obj = ResourceManager.GetObject("candy91", resourceCulture);
+                object obj = ResourceManager.GetObject("candy82", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
