@@ -278,5 +278,32 @@
   <ItemGroup>
     <None Include="Resources\congrats_pane.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy8.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
