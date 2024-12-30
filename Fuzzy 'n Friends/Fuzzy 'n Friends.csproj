@@ -105,6 +105,9 @@
     <EmbeddedResource Include="correct.resx">
       <DependentUpon>correct.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="counting_game.resx">
+      <DependentUpon>counting_game.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="incorrect.resx">
       <DependentUpon>incorrect.cs</DependentUpon>
     </EmbeddedResource>
