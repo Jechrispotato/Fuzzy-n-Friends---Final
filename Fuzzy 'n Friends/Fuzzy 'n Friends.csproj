@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73497DB2-6DC6-476E-955F-A428E96DDE98}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Fuzzy__n_Friends</RootNamespace>
+    <AssemblyName>Fuzzy %27n Friends</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="correct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correct.Designer.cs">
+      <DependentUpon>correct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="selection_pane.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selection_pane.Designer.cs">
+      <DependentUpon>selection_pane.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correct.resx">
+      <DependentUpon>correct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="selection_pane.resx">
+      <DependentUpon>selection_pane.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\incorrect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correct.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quit_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\continue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\continue_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\try_again_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\try_again.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_us.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\count_the_candy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoot_a_pest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guess_the_fruit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selection_pane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoot_a_pest_pest3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoot_a_pest_pest1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoot_a_pest_pest2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoot_a_pest_character_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\block.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoot_a_pest_character_left.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
