@@ -52,6 +52,12 @@
     <Compile Include="about.Designer.cs">
       <DependentUpon>about.cs</DependentUpon>
     </Compile>
+    <Compile Include="complete_the_word.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="complete_the_word.Designer.cs">
+      <DependentUpon>complete_the_word.cs</DependentUpon>
+    </Compile>
     <Compile Include="correct.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +92,9 @@
     </Compile>
     <EmbeddedResource Include="about.resx">
       <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="complete_the_word.resx">
+      <DependentUpon>complete_the_word.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="correct.resx">
       <DependentUpon>correct.cs</DependentUpon>
