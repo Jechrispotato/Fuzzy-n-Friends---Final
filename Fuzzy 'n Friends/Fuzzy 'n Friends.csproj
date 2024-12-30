@@ -192,33 +192,6 @@
     <None Include="Resources\0number.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\candy9.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy8.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy7.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy6.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\candy1.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\8number.png" />
   </ItemGroup>
   <ItemGroup>
@@ -286,6 +259,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\fre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_to_menu_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_to_menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play_again.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play_again_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\congrats_pane.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

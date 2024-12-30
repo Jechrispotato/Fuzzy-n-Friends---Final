@@ -223,6 +223,26 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap back_to_menu {
+            get {
+                object obj = ResourceManager.GetObject("back_to_menu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap back_to_menu_hover {
+            get {
+                object obj = ResourceManager.GetObject("back_to_menu_hover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap block {
             get {
                 object obj = ResourceManager.GetObject("block", resourceCulture);
@@ -316,6 +336,16 @@ namespace Fuzzy__n_Friends.Properties {
         internal static System.Drawing.Bitmap candy9 {
             get {
                 object obj = ResourceManager.GetObject("candy9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap congrats_pane {
+            get {
+                object obj = ResourceManager.GetObject("congrats_pane", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -426,6 +456,26 @@ namespace Fuzzy__n_Friends.Properties {
         internal static System.Drawing.Bitmap play {
             get {
                 object obj = ResourceManager.GetObject("play", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap play_again {
+            get {
+                object obj = ResourceManager.GetObject("play_again", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap play_again_hover {
+            get {
+                object obj = ResourceManager.GetObject("play_again_hover", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
