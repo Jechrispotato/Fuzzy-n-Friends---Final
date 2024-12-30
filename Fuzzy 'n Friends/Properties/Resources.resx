@@ -118,107 +118,32 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="correct" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\correct.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="0number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="count_the_candy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\count_the_candy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="9number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\9number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="try_again_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\try_again_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="about_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\about_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="shoot_a_pest_pest3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\shoot_a_pest_pest3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="block" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fre" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="4number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="candy52" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="candy81" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="congrats_pane" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\congrats_pane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="shoot_a_pest" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\shoot_a_pest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="incorrect1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\incorrect1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="quit_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\quit_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy41" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="back_to_menu_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back_to_menu_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="play_again_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play_again_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="7number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\7number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="candy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="play_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\play_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="incorrect" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\incorrect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="congrats_pane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\congrats_pane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="about_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\about_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="main_menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\main_menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="quit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\quit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="candy72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="shoot_a_pest_character_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\shoot_a_pest_character_right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="8number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\8number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="about" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\about.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -226,97 +151,175 @@
   <data name="candy3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="selection_pane" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\selection_pane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="incorrect1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\incorrect1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="2number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="shoot_a_pest_character_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoot_a_pest_character_right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="candy7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="shoot_a_pest_character_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\shoot_a_pest_character_left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="candy4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="continue_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\continue_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="candy12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="try_again" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\try_again.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="play_again" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play_again.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="shoot_a_pest_pest1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\shoot_a_pest_pest1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="0number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\0number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="back_to_menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back_to_menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="candy11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="about_us" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\about_us.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="shoot_a_pest_pest2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\shoot_a_pest_pest2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="3number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="exit_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\exit_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="guess_the_fruit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\guess_the_fruit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="candy5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="6number" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="back_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="continue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\continue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="candy61" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="candy12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy62" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoot_a_pest_character_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoot_a_pest_character_left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="about_us" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\about_us.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="correct" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\correct.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoot_a_pest_pest3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoot_a_pest_pest3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guess_the_fruit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guess_the_fruit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="continue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\continue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="block" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy81" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="quit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\quit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="continue_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\continue_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="incorrect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\incorrect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play_again" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play_again.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play_again_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play_again_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoot_a_pest_pest2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoot_a_pest_pest2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selection_pane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\selection_pane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoot_a_pest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoot_a_pest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="try_again_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\try_again_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy82" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shoot_a_pest_pest1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shoot_a_pest_pest1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back_to_menu_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back_to_menu_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="count_the_candy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\count_the_candy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6number" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6number.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\candy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="candy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="candy22" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="candy32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="candy42" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\candy4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="candy52" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="back_to_menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back_to_menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="candy62" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="quit_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\quit_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="candy72" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="exit_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit_hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="candy82" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\candy8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="count_the_candy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\count_the_candy1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
