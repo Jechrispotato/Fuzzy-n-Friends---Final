@@ -64,6 +64,12 @@
     <Compile Include="incorrect.Designer.cs">
       <DependentUpon>incorrect.cs</DependentUpon>
     </Compile>
+    <Compile Include="instructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="instructions.Designer.cs">
+      <DependentUpon>instructions.cs</DependentUpon>
+    </Compile>
     <Compile Include="menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="incorrect.resx">
       <DependentUpon>incorrect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="instructions.resx">
+      <DependentUpon>instructions.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="menu.resx">
       <DependentUpon>menu.cs</DependentUpon>
@@ -259,6 +268,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\incorrect1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fre.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
