@@ -38,8 +38,22 @@ namespace Fuzzy__n_Friends
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
+            this.Hide();
             complete_the_word game_1 = new complete_the_word();
             game_1.ShowDialog();
+        }
+        private void game1_MouseHover(object sender, EventArgs e)
+        {
+            game1.Image = Properties.Resources.thumbnail1_design;
+        }
+        private void game1_MouseLeave(object sender, EventArgs e)
+        {
+            game1.Image = Properties.Resources.thumbnail1;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

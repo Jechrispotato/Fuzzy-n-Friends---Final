@@ -44,7 +44,7 @@
             this.play_btn.BackColor = System.Drawing.Color.Transparent;
             this.play_btn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.play_btn.Image = global::Fuzzy__n_Friends.Properties.Resources.play;
-            this.play_btn.Location = new System.Drawing.Point(762, 15);
+            this.play_btn.Location = new System.Drawing.Point(1027, 15);
             this.play_btn.Name = "play_btn";
             this.play_btn.Size = new System.Drawing.Size(522, 92);
             this.play_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -60,7 +60,7 @@
             this.about_btn.BackColor = System.Drawing.Color.Transparent;
             this.about_btn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.about_btn.Image = global::Fuzzy__n_Friends.Properties.Resources.about;
-            this.about_btn.Location = new System.Drawing.Point(762, 99);
+            this.about_btn.Location = new System.Drawing.Point(1027, 99);
             this.about_btn.Name = "about_btn";
             this.about_btn.Size = new System.Drawing.Size(522, 92);
             this.about_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -76,12 +76,13 @@
             this.exit_btn.BackColor = System.Drawing.Color.Transparent;
             this.exit_btn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.exit_btn.Image = global::Fuzzy__n_Friends.Properties.Resources.exit;
-            this.exit_btn.Location = new System.Drawing.Point(762, 183);
+            this.exit_btn.Location = new System.Drawing.Point(1027, 183);
             this.exit_btn.Name = "exit_btn";
             this.exit_btn.Size = new System.Drawing.Size(522, 92);
             this.exit_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.exit_btn.TabIndex = 2;
             this.exit_btn.TabStop = false;
+            this.exit_btn.Click += new System.EventHandler(this.exit_btn_Click);
             this.exit_btn.MouseLeave += new System.EventHandler(this.exit_btn_MouseLeave);
             this.exit_btn.MouseHover += new System.EventHandler(this.exit_btn_MouseHover);
             // 
@@ -94,9 +95,9 @@
             this.panel1.Controls.Add(this.play_btn);
             this.panel1.Controls.Add(this.exit_btn);
             this.panel1.Controls.Add(this.about_btn);
-            this.panel1.Location = new System.Drawing.Point(0, 427);
+            this.panel1.Location = new System.Drawing.Point(0, 623);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1402, 309);
+            this.panel1.Size = new System.Drawing.Size(1932, 309);
             this.panel1.TabIndex = 3;
             // 
             // menu
@@ -105,7 +106,7 @@
             this.AutoSize = true;
             this.BackgroundImage = global::Fuzzy__n_Friends.Properties.Resources.main_menu;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1370, 749);
+            this.ClientSize = new System.Drawing.Size(1900, 945);
             this.Controls.Add(this.panel1);
             this.DoubleBuffered = true;
             this.MinimumSize = new System.Drawing.Size(1364, 726);
@@ -113,6 +114,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Fuzzy \'n Friends!";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.menu_Load);
             ((System.ComponentModel.ISupportInitialize)(this.play_btn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.about_btn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.exit_btn)).EndInit();

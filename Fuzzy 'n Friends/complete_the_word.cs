@@ -125,5 +125,15 @@ namespace Fuzzy__n_Friends
                 
             }
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

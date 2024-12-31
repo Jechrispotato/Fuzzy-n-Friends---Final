@@ -203,6 +203,36 @@ namespace Fuzzy__n_Friends.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap another_correct {
+            get {
+                object obj = ResourceManager.GetObject("another_correct", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap another_guess_the_fruit {
+            get {
+                object obj = ResourceManager.GetObject("another_guess_the_fruit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap another_incorrect {
+            get {
+                object obj = ResourceManager.GetObject("another_incorrect", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap back {
             get {
                 object obj = ResourceManager.GetObject("back", resourceCulture);
@@ -716,6 +746,26 @@ namespace Fuzzy__n_Friends.Properties {
         internal static System.Drawing.Bitmap shoot_a_pest_pest3 {
             get {
                 object obj = ResourceManager.GetObject("shoot_a_pest_pest3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap thumbnail1 {
+            get {
+                object obj = ResourceManager.GetObject("thumbnail1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap thumbnail1_design {
+            get {
+                object obj = ResourceManager.GetObject("thumbnail1_design", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
