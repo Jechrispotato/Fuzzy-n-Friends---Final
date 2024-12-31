@@ -106,6 +106,12 @@
     <Compile Include="instructions.Designer.cs">
       <DependentUpon>instructions.cs</DependentUpon>
     </Compile>
+    <Compile Include="math_quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="math_quiz.Designer.cs">
+      <DependentUpon>math_quiz.cs</DependentUpon>
+    </Compile>
     <Compile Include="menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -145,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="instructions.resx">
       <DependentUpon>instructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="math_quiz.resx">
+      <DependentUpon>math_quiz.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="menu.resx">
       <DependentUpon>menu.cs</DependentUpon>

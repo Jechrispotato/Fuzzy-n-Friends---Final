@@ -55,5 +55,11 @@ namespace Fuzzy__n_Friends
         {
 
         }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            math_quiz game_2 = new math_quiz();
+            game_2.ShowDialog();
+        }
     }
 }
