@@ -125,6 +125,12 @@
     <Compile Include="selection_pane.Designer.cs">
       <DependentUpon>selection_pane.cs</DependentUpon>
     </Compile>
+    <Compile Include="testing_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testing_form.Designer.cs">
+      <DependentUpon>testing_form.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="about.resx">
       <DependentUpon>about.cs</DependentUpon>
     </EmbeddedResource>
