@@ -117,16 +117,23 @@ namespace Fuzzy__n_Friends
                         }
                         else
                         {
-                            MessageBox.Show("Correct!", "Result");
+                            correct right = new correct();
+                            right.ShowDialog();
                             LoadQuestion(); // Load next question
                         }
                     }
                     else
                     {
-                        MessageBox.Show("Wrong answer. Try again!", "Result");
+                        incorrect wrong = new incorrect();
+                        wrong.ShowDialog();
                     }
                 }
             }
+        }
+
+        private void math_quiz_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -358,6 +358,15 @@
     <Content Include="Resources\boing.wav" />
     <Content Include="Resources\children_yay.wav" />
     <Content Include="Resources\lobby_music.wav" />
+    <None Include="Resources\thumbnail21.png" />
+    <None Include="Resources\thumbnail3.png" />
+    <None Include="Resources\thumbnail11.png" />
+    <None Include="Resources\thumbnail1_hover.png" />
+    <None Include="Resources\thumbnail2_hover1.png" />
+    <None Include="Resources\thumbnail3_hover.png" />
+    <None Include="Resources\thumbnail2.png" />
+    <None Include="Resources\thumbnail2_hover.png" />
+    <None Include="Resources\math_quiz%401.5x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

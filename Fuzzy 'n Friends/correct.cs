@@ -25,21 +25,16 @@ namespace Fuzzy__n_Friends
 
             if (File.Exists(musicPath))
             {
-                // Create the wave output device (handles audio output)
                 waveOutDevice = new WaveOutEvent();
 
-                // Create an AudioFileReader (reads the MP3 file)
                 audioFileReader = new AudioFileReader(musicPath);
 
-                // Initialize the output device with the audio file reader
                 waveOutDevice.Init(audioFileReader);
 
-                // Start playing the music once
                 waveOutDevice.Play();
             }
             else
             {
-                // If the file does not exist, show an error message
                 MessageBox.Show("Music file not found at: " + musicPath);
             }
         }
@@ -59,10 +54,15 @@ namespace Fuzzy__n_Friends
         private void quit_btn_Click(object sender, EventArgs e)
         {
             Form c = Application.OpenForms["complete_the_word"];
+            Form d = Application.OpenForms["math_quiz"];
             if (c != null)
             { 
                 c.Close();
-            }  
+            }
+            if (d != null)
+            {
+                d.Close();
+            }
             this.Close(); 
             menu menu = new menu();
             menu.Show();

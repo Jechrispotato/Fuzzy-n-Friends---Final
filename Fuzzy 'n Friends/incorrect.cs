@@ -62,9 +62,14 @@ namespace Fuzzy__n_Friends
         private void quit_btn_Click(object sender, EventArgs e)
         {
             Form c = Application.OpenForms["complete_the_word"];
+            Form d = Application.OpenForms["math_quiz"];
             if (c != null)
             {
                 c.Close();
+            }
+            else if (d != null)
+            {
+                d.Close();
             }
             this.Close();
             menu menu = new menu();

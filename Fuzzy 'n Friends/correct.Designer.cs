@@ -93,7 +93,7 @@
             this.MinimumSize = new System.Drawing.Size(1352, 718);
             this.Name = "correct";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "correct";
+            this.Text = "Fuzzy \'n Friends!";
             this.Load += new System.EventHandler(this.correct_Load);
             ((System.ComponentModel.ISupportInitialize)(this.continue_btn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.quit_btn)).EndInit();
