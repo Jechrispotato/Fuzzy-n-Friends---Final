@@ -32,6 +32,7 @@
             this.about_btn = new System.Windows.Forms.PictureBox();
             this.exit_btn = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.play_btn)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.about_btn)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.exit_btn)).BeginInit();
@@ -100,6 +101,14 @@
             this.panel1.Size = new System.Drawing.Size(1932, 309);
             this.panel1.TabIndex = 3;
             // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.Transparent;
+            this.panel2.Location = new System.Drawing.Point(334, 422);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(86, 50);
+            this.panel2.TabIndex = 4;
+            // 
             // menu
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -107,6 +116,7 @@
             this.BackgroundImage = global::Fuzzy__n_Friends.Properties.Resources.main_menu;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1900, 945);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.DoubleBuffered = true;
             this.MinimumSize = new System.Drawing.Size(1364, 726);
@@ -130,6 +140,7 @@
         private System.Windows.Forms.PictureBox about_btn;
         private System.Windows.Forms.PictureBox exit_btn;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel2;
     }
 }
 
