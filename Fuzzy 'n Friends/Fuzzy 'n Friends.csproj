@@ -106,6 +106,12 @@
     <Compile Include="instructions.Designer.cs">
       <DependentUpon>instructions.cs</DependentUpon>
     </Compile>
+    <Compile Include="kill_a_pest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kill_a_pest.Designer.cs">
+      <DependentUpon>kill_a_pest.cs</DependentUpon>
+    </Compile>
     <Compile Include="math_quiz.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -151,6 +157,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="instructions.resx">
       <DependentUpon>instructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kill_a_pest.resx">
+      <DependentUpon>kill_a_pest.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="math_quiz.resx">
       <DependentUpon>math_quiz.cs</DependentUpon>
@@ -355,8 +364,10 @@
     <None Include="Resources\thumbnail1.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\arrow.png" />
     <Content Include="Resources\boing.wav" />
     <Content Include="Resources\children_yay.wav" />
+    <None Include="Resources\Explosion.png" />
     <Content Include="Resources\lobby_music.wav" />
     <None Include="Resources\thumbnail21.png" />
     <None Include="Resources\thumbnail3.png" />

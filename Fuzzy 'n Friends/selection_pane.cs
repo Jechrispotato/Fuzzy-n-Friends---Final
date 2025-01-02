@@ -84,5 +84,11 @@ namespace Fuzzy__n_Friends
         {
             game3.Image = Properties.Resources.thumbnail3;
         }
+
+        private void game3_Click_1(object sender, EventArgs e)
+        {
+            kill_a_pest game_3 = new kill_a_pest(); 
+            game_3.ShowDialog();
+        }
     }
 }

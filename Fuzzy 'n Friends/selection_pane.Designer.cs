@@ -88,6 +88,7 @@
             this.game3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.game3.TabIndex = 4;
             this.game3.TabStop = false;
+            this.game3.Click += new System.EventHandler(this.game3_Click_1);
             this.game3.MouseLeave += new System.EventHandler(this.game3_MouseLeave);
             this.game3.MouseHover += new System.EventHandler(this.game3_MouseHover);
             // 
@@ -127,11 +128,11 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Newyear Goo", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Yellow;
             this.label1.Location = new System.Drawing.Point(394, 557);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(209, 26);
+            this.label1.Size = new System.Drawing.Size(181, 29);
             this.label1.TabIndex = 5;
             this.label1.Text = "Guess the Fruit!";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -143,11 +144,11 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Newyear Goo", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Yellow;
             this.label2.Location = new System.Drawing.Point(730, 557);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(152, 26);
+            this.label2.Size = new System.Drawing.Size(173, 29);
             this.label2.TabIndex = 6;
             this.label2.Text = "LETS COUNT!";
             // 
@@ -158,11 +159,11 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Newyear Goo", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Yellow;
             this.label3.Location = new System.Drawing.Point(998, 557);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(175, 26);
+            this.label3.Size = new System.Drawing.Size(197, 29);
             this.label3.TabIndex = 7;
             this.label3.Text = "SHOOT A PEST!";
             // 
